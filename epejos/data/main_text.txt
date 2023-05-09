@@ -1,0 +1,4 @@
+Program Epejos został utworzony na potrzeby
+zwiększenia efektywności pracy.
+
+Program tworzy wrzutki taborowe z plików Nike
